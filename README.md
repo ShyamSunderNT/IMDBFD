@@ -30,7 +30,7 @@ An IMDb clone built with **React**, **TMDb API**, and **React Router** to displa
 
 ## Demo 🎉
 
-Check out the live demo [here](#) _(add the link to your deployed project)_.
+Check out the live demo [here](#https://imdb-clone-shyam.netlify.app/) __.
 
 ---
 
@@ -38,4 +38,4 @@ Check out the live demo [here](#) _(add the link to your deployed project)_.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/imdb-clone.git
+   git clone https://github.com/ShyamSunderNT/IMDBFD
