@@ -30,7 +30,7 @@ An IMDb clone built with **React**, **TMDb API**, and **React Router** to displa
 
 ## Demo 🎉
 
-Check out the live demo [here](#https://imdb-clone-shyam.netlify.app/) __.
+Check out the live demo [here](https://imdb-clone-shyam.netlify.app/) __.
 
 ---
 
